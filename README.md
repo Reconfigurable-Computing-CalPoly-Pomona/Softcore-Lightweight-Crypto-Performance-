@@ -1,6 +1,6 @@
 # Softcore-Lightweight-Crypto-Performance
 
-# Overview
+** Overview
 
 This project has been done as a collaboration between California State Polytechnic University Pomona and Xilinx on developing a low power computational technology while being a cost-efficient solution. The project is aimed towards using Field Programmable Gate Array (FPGA) platforms that will use softcore processors to perform image processing, cyber security, encryption, and high-performance applications for Defense. The main benchmarking method was performed using three encryptions on a MicroBlaze platform. The encrytions consist of RSA, AES, and ASCON; all materials used are referenced towards the end.
 
