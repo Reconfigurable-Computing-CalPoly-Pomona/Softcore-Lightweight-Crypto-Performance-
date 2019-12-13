@@ -46,3 +46,5 @@ The next objective is to design communication interfaces to connect multiple low
 - IBM
 
 - IBM-Illinois Center for Cognitive Computing Systems Research
+
+- NIST: Lightweight Cryptography - ASCON
