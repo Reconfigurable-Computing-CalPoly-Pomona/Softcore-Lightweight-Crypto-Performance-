@@ -7,22 +7,19 @@ This project has been done as a collaboration between California State Polytechn
 
 ## Team Members:
 
-- Ryan Melendez: Electrical Engineer, College of Engineering, California State Polytechnic University, Pomona.
-- Burhan Alestwani: Electrical and Computer Engineer, College of Engineering, California State Polytechnic University, Pomona.
+- **Ryan Melendez**: Electrical Engineer, College of Engineering, California State Polytechnic University, Pomona.
+- **Burhan Alestwani**: Electrical and Computer Engineer, College of Engineering, California State Polytechnic University, Pomona.
 
 
 ## Supervising Professor:
 
-- Mohamed El-Hadedy: Assistant Professor in Electrical and Computer Engineering at CalPoly, Pomona
-
-- Anas Salaheddin: Assistant Professor in Electrical and Computer Engineering at CalPoly, Pomona.
-
+- **Mohamed El-Hadedy**: Assistant Professor in Electrical and Computer Engineering at CalPoly, Pomona
 
 ## Collaborators:
 
-- Wen-Mei Hwu: Director of Center for Cognitive Computing Systems Research and Walter J. Sanders III-AMD Endowed Chair Professor in Elecrical and Computer Engineering at UIUC.
+- **Wen-Mei Hwu**: Director of Center for Cognitive Computing Systems Research and Walter J. Sanders III-AMD Endowed Chair Professor in Elecrical and Computer Engineering at UIUC.
 
-- Jinjun Xiong: Director of Center for Cognitive Computing Systems Research and Adjunct Research Professor at UIUC.
+- **Jinjun Xiong**: Director of Center for Cognitive Computing Systems Research and Adjunct Research Professor at UIUC.
 
 
 ### Video Tutorial Link: https://youtu.be/49-BLvp7WhM
