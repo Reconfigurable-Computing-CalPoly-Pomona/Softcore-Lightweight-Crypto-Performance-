@@ -15,6 +15,9 @@ This project has been done as a collaboration between California State Polytechn
 
 - **Mohamed El-Hadedy**: Assistant Professor in Electrical and Computer Engineering at CalPoly, Pomona
 
+- **Anas Salah Eddin**: Assistant Professor in Electrical and Computer Engineering at CalPoly, Pomona
+
+
 ## Collaborators:
 
 - **Wen-Mei Hwu**: Director of Center for Cognitive Computing Systems Research and Walter J. Sanders III-AMD Endowed Chair Professor in Elecrical and Computer Engineering at UIUC.
